@@ -44,4 +44,5 @@ void main()
     //display(22,33,44);
     display(x,y,z);
     show();
+    printf("hello world");
 }
