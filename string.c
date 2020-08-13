@@ -65,4 +65,5 @@ void main()
     printf("\n\nresult(username) = %d",result);
     result = strcmp(pwd,pwdDB);
     printf("\n\nresult(password) = %d",result);
+    printf("Thank you");
 }
